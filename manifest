@@ -1,0 +1,8 @@
+teneo-crypto-signal-sdk/
+├─ src/
+│  ├─ index.js          # SDK entry
+│  └─ agent.js          # Core logic
+├─ package.json
+├─ README.md
+├─ LICENSE
+└─ .gitignore
