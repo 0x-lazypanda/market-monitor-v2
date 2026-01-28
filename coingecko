@@ -1,0 +1,10 @@
+---
+
+# 7️⃣ Push this to GitHub (commands)
+```bash
+git init
+git add .
+git commit -m "Initial Teneo crypto signal SDK"
+git branch -M main
+git remote add origin https://github.com/YOURNAME/teneo-crypto-signal-sdk.git
+git push -u origin main
